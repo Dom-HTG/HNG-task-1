@@ -49,6 +49,8 @@ To retrieve the JSON data using `curl`:
 curl -X GET https://hng-task-1-s006.onrender.com/api/dummy
 ```
 
+Interested in hiring NodeJS developers, visit [HNG](https://hng.tech/hire/nodejs-developers).
+
 
 
 
