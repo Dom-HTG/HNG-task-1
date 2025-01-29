@@ -21,7 +21,7 @@ npm install
 ```
 3. Start the application
 ```bash
-npm run start:dev
+npm run start:prod
 ```
 ## API Documentation
 
