@@ -5,7 +5,7 @@ const retrieveData = async (_req, res) => {
         res.status(200).json(dummydata);
     } catch (e) {
         console.error(e.message);
-        res.status(500).json({ message: 'An error occurred while retrieving data.' });
+        res.status(500).json({ message: 'Error retrieving data' });
     };
 }; 
 

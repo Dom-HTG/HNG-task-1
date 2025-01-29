@@ -26,13 +26,15 @@ npm run start:dev
 ## API Documentation
 
 ### Endpoint URL
-- **GET** ``
+- **GET** `https://hng-task-1-s006.onrender.com/api/dummy`
 ### Request Format
 - **Method**: GET
 - **Headers**:
   - `Content-Type: application/json`
 ### Response Format
-- **Status Code**: 200 OK
+- **Status Code**: 
+  - 200 OK: Successful Request
+  - 500 : `Error retrieving data`
 - **Response Body**:
   ```json
   {
@@ -44,7 +46,7 @@ npm run start:dev
 ### Usage
 To retrieve the JSON data using `curl`:
 ```bash
-curl -X GET 
+curl -X GET https://hng-task-1-s006.onrender.com/api/dummy
 ```
 
 
