@@ -1,6 +1,6 @@
 // controller function.
 
-const retrieveData = async (_req, res) => {
+const retrieveData = (_req, res) => {
     try {
         res.status(200).json({
             email: 'dominicdutchboy@gmail.com',

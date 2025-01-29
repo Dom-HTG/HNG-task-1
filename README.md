@@ -40,7 +40,7 @@ npm run start:prod
   {
       "email": "dominicdutchboy@gmail.com",
       "current_datetime": "2025-01-29T11:43:50.769Z",
-      "github_url": "https://github.com/Dom-HTG/HNG-task-1.git"
+      "github_url": "https://github.com/Dom-HTG/HNG-task-1"
   }
   ```
 ### Usage
